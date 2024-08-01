@@ -1,0 +1,18 @@
+# Trabalho Calculadora V2
+
+- Esse projeto vou desenvolver uma calculadora usando a linguagem python
+
+- Primeiro criei uma variavel de saida contendo ''.
+
+- Após criei todos as funções matematicas recebendo parametros.
+
+- Criei a função da calculadora recebendo os paramentros e utilizando estruturas de condições.
+
+- Logo em seguida criei a estrutra principal while em lower.
+
+- Criei as estruturas de condiçoes e inputs para o usuario.
+
+- No fim criei um input para o usuario responder se quer continuar e armazenei da variavel saida.
+
+
+
